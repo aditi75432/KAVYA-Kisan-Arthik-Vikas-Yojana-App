@@ -1,4 +1,4 @@
-#KAVYA-Kisan Arthik Vikas Yojana Assistant
+# KAVYA-Kisan Arthik Vikas Yojana Assistant
 
 ## 🌾 Smart Agri-Wallet with AI Voice Assistant
 
@@ -75,8 +75,7 @@ A next-generation **AI-powered digital wallet** for smallholder farmers in India
 
 ## 🛠 Tech Stack
 
-| Category                          | Technology Used                            |
-|--------------------------------------------------------------------------------|
+
 | 💬 Conversational AI             - Ollama-based on-prem LLMs, Voiceflow       
 | 🧠 AI Models                     - Custom ML for credit scoring, risk analysis
 | 🗃 Embedding & Memory             - Ollama Embedding Models + SQLite DB        
