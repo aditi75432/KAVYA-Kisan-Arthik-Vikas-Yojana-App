@@ -6,6 +6,12 @@ A next-generation **AI-powered digital wallet** for smallholder farmers in India
 
 🚀 Live Demo: [https://kavya-pragati.vercel.app](https://kavya-pragati.vercel.app)
 
+
+
+https://github.com/user-attachments/assets/86be7035-68c7-46f9-b8e9-a6479fea60b1
+
+
+
 ![Screenshot 2025-04-04 185743](https://github.com/user-attachments/assets/b71e59ab-ef2f-4ca1-a3b0-531897b86753)
 ![Screenshot 2025-04-04 185754](https://github.com/user-attachments/assets/b6f530d6-5fd4-44bf-9161-3a647b782c2b)
 ![Screenshot 2025-04-04 185802](https://github.com/user-attachments/assets/739f68f5-d1c6-4afb-a3bd-0651340a014e)
