@@ -107,12 +107,6 @@ https://github.com/user-attachments/assets/86be7035-68c7-46f9-b8e9-a6479fea60b1
 - ✅ **Privacy-first** with Federated Learning & blockchain logs
 - ✅ Transparent AI decisions with human-in-the-loop review
 
----
-
-## 📽 Demo Video & Presentation
-
-📽 **[Demo Video]** – _(Coming Soon)_  
-📊 **[Final Pitch Deck]** – _(Attach your slide deck if ready)_
 
 ---
 
