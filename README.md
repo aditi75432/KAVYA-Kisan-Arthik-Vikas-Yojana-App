@@ -1,4 +1,4 @@
-# KAVYA-Kisan Arthik Vikas Yojana Assistant
+# KAVYA-Kisan Arthik Vikas Yojana App
 
 ## 🌾 Smart Agri-Wallet with AI Voice Assistant
 
