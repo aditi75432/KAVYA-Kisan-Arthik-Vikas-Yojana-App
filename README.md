@@ -8,7 +8,11 @@ A next-generation **AI-powered digital wallet** for smallholder farmers in India
 
 
 
-https://github.com/user-attachments/assets/86be7035-68c7-46f9-b8e9-a6479fea60b1
+
+
+https://github.com/user-attachments/assets/ec6295f8-aeb9-47f0-aa37-c9dad185839a
+
+
 
 
 
