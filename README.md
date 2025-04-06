@@ -91,12 +91,12 @@ https://github.com/user-attachments/assets/86be7035-68c7-46f9-b8e9-a6479fea60b1
 ## 🛠 Tech Stack
 
 
-| 💬 Conversational AI             - Ollama-based on-prem LLMs, Voiceflow       
-| 🧠 AI Models                     - Custom ML for credit scoring, risk analysis
+| 💬 Conversational AI             - Ollama-based on-prem LLMs, Voiceflow , Google/Gemini API     
+| 🧠 AI Models                     - Custom ML for credit scoring, risk analysis, Google/Gemini API 
 | 🗃 Embedding & Memory             - Ollama Embedding Models + SQLite DB        
 | 🔗 Blockchain & Smart Contracts  - Solidity + Web3.js + IPFS                  
 | 📱 Channels & Interfaces         - WhatsApp API, IVR, SMS, Web (Vercel)       
-| 🧩 Multi-Agent Framework         - Custom agent framework + API integration   
+| 🧩 Multi-Agent Framework         - Custom agent framework + API integration, google IDX
 | 🛰 Remote Sensing                 - Weather APIs (IMD, NASA, etc.)              
 
 
