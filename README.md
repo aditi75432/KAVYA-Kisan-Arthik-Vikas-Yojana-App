@@ -112,13 +112,10 @@ https://github.com/user-attachments/assets/ec6295f8-aeb9-47f0-aa37-c9dad185839a
 - ✅ Transparent AI decisions with human-in-the-loop review
 
 
----
-
-## 🙌 Team She - Sharp Coders
 
 > _Empowering farmers through inclusive AI, blockchain, and financial innovation._
 
-- 👩‍💻 Aditi Mehta, Anusha Arora, Vania Goel, Arshiya Garg
+
 
 
 
